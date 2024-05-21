@@ -1,2 +1,2 @@
 # sussex24
-University of Sussex, UK Hackathon
+Loc.: University of Sussex, UK Hackathon ([website](https://www.hacksussex.com/))
